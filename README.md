@@ -3,7 +3,6 @@
 一转眼一个学期完蛋了,想着下个学期好好干PT软件;  
 ***不料***,他妈的连课都没有了;
 
-
 ### GNU/Linux下软件运行状态;
 [![pt.png](https://i.postimg.cc/tJfvr1Gk/pt.png)](https://postimg.cc/JHNQ0znH)
 
@@ -18,16 +17,14 @@ pacman -U *.zst
 
 #### Arch Linux 手动构建打包安装方法;
 ```
-自行构建,需要耐心,和一些小折腾 {
-0x00 安装依赖;
+自行构建,需要耐心,和一些小小的折腾 {
+0X00 安装依赖;
 pacman -Syy base-devel fakeroot git
-0x01 克隆PKGBUILD文件准备构建;
+0X01 克隆PKGBUILD文件准备构建;
 git clone https://github.com/MAN999999999/Arch-PacketTracer.git
-0x02 进入目录,
+0X02 进入目录,
 makepkg -si    #安装速度取决于网络速度,最好使用代理;
-
 ###--------如何加快构建速度------#
-
 首先下载好PacketTracer_731_amd64.deb
 并且放置在packettracer目录中;
 修改PKGBUILD第18行,替换为
@@ -47,6 +44,8 @@ apt-get install -f
 }
 ```
 
-# 最后来张靓照  
+# 最后来张***本人***
+###### 老师的
+# ***靓照*** 
 西安某大学计算机网络专业***女神老师***;
 [![1504564308.jpg](https://i.postimg.cc/66Hk23gy/1504564308.jpg)](https://postimg.cc/grZS1YYW)
