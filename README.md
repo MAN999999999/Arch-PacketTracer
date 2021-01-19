@@ -3,5 +3,5 @@
 [![1504564308.jpg](https://i.postimg.cc/66Hk23gy/1504564308.jpg)](https://postimg.cc/grZS1YYW)
 
 
-![image](w2wz.com/jUPs)
-
+### 运行状态;
+[![pt.png](https://i.postimg.cc/tJfvr1Gk/pt.png)](https://postimg.cc/JHNQ0znH)
