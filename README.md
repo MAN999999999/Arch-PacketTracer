@@ -10,7 +10,7 @@
 ```
 已经打好了包,复制下面命令安装: {
 pacman -Syy wget 
-wget 'https://github.com/MAN999999999/Arch-PacketTracer/releases/download/V7.3.1/packettracer-7.3.1-3-x86_64.pkg.tar.zst'
+wget 'https://github.com/wo2ni/Arch-PacketTracer/releases/download/v7.3.1/packettracer-7.3.1-3-x86_64.pkg.tar.zst'
 pacman -U *.zst
 }
 ```
@@ -21,7 +21,7 @@ pacman -U *.zst
 0X00 安装依赖;
 pacman -Syy base-devel fakeroot git
 0X01 克隆PKGBUILD文件准备构建;
-git clone https://github.com/MAN999999999/Arch-PacketTracer.git
+git clone https://github.com/wo2ni/Arch-PacketTracer.git
 0X02 进入目录,
 makepkg -si    #安装速度取决于网络速度,最好使用代理;
 ###--------如何加快构建速度------#
@@ -49,3 +49,5 @@ apt-get install -f
 # ***靓照*** 
 [![1504564308.jpg](https://i.postimg.cc/66Hk23gy/1504564308.jpg)](https://postimg.cc/grZS1YYW)
 西安某大学计算机网络专业***女神老师***;
+
+- [→ 本人永久的Github地址](https://github.com/wo2ni)
